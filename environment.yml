@@ -1,0 +1,15 @@
+name: physics
+channels:
+  - conda-forge
+dependencies:
+  - uncertainties
+  - numpy
+  - python=3.12
+  - matplotlib
+  - sympy
+  - pandas
+  - jupyterlab
+  - astropy
+  - ipykernel
+  - scipy
+prefix: /home/jaffar/miniforge3/envs/physics
