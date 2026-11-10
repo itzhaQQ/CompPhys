@@ -1,6 +1,6 @@
 **!! Before running the code make sure to set different values for  `n_therm`, `n_meas` and `h_vals` or the code will run for ~ 20 min depending on the setup.!!**
 
-***Task 3***
+- ***Task 3***
 Runtime with set values: $\sim 25$ mins
 The simulation ran for the *magnetization vs. h* - plots in the PDF (for better analysis) with:
 
@@ -15,8 +15,8 @@ n_meas = 5000
 
 The code is documented in the .ipynb file (with sections dividing each task) and the PDF is for discussion and analysis tasks.
 
-***Task 4*
-**Runtime with set values: **$\sim 5$ **mins
+- ***Task 4***
+Runtime with set values: $\sim 5$ mins
 The simulation ran for the *energy vs. h* -plots with:
 
 ```Python
@@ -27,7 +27,7 @@ n_therm = 1000
 n_meas = 3000
 ```
 
-***Task 5***
+- ***Task 5***
 Runtime with set values:  $\sim 5$ mins
 The simulation ran for the *abs. mean magnetization vs inverse coupling strength* - plot with:
 
@@ -39,7 +39,7 @@ n_therm = 2000
 n_meas = 5000
 ```
 
-***Task 6***
+- ***Task 6***
 Runtime with set values: $\sim 6$  mins
 The simulation ran for the specific heat vs. J -plots with:
 
