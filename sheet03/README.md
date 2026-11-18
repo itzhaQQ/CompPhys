@@ -1,6 +1,6 @@
-To run this Jupyter Notebook just press ***Run all***.
-Used packages: `numpy`, `math` , `matplotlib` \
-The estimated runtime will be $\sim 10-60$ s. \ 
+To run this Jupyter Notebook just press **Run all**.\
+Used packages: `numpy`, `math` , `matplotlib`\
+The estimated runtime will be $\sim 10-60$ s.\ 
 
 - The function for task 3:
 
