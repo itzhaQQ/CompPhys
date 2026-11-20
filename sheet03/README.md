@@ -1,6 +1,7 @@
 To run this Jupyter Notebook just press **Run all**.\
 Used packages: `numpy`, `math` , `matplotlib`\
-The estimated runtime will be $\sim 10-60$ s.\ 
+The estimated runtime will be $\sim 10-60$ s. \
+For the flowcharts in the markdown-cells: `mermaid` support is recommended to compile.
 
 - The function for task 3:
 
